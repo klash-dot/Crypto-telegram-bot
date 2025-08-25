@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+requests
+schedule
+pandas
+numpy
+ccxt
